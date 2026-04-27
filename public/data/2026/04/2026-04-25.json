@@ -1,0 +1,470 @@
+{
+  "schema_version": 1,
+  "date": "2026-04-25",
+  "keywords": [
+    "AI 트렌드",
+    "LLM",
+    "GPT-5.5",
+    "AI 에이전트",
+    "오픈소스 AI",
+    "AI 보안",
+    "AI 자동화"
+  ],
+  "sections": {
+    "hype_check": [
+      {
+        "title": "ChatGPT vs. Claude, AI판 '프로필 사진' 대결! 누가 더 '힙'한가? 🤣",
+        "summary": "AI끼리 서로의 유저들을 어떻게 생각하는지 '프로필 사진'을 만들어 봤대요! 과연 ChatGPT 유저는 어떤 모습일까요?",
+        "content": "레딧에서 한 유저가 ChatGPT와 Claude에게 서로의 유저들이 어떻게 생겼을지 그려보라고 시켰는데, 결과가 대폭소! 🤣 ChatGPT는 Claude 유저를 좀 더 '힙스터' 감성으로, Claude는 ChatGPT 유저를 좀 더 '오타쿠' 감성으로 그렸다고 해요. AI끼리도 서로를 견제하는(?) 이런 모습, 인간미 넘치지 않나요?",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1susy9r/this_is_how_chatgpt_thinks_claude_users_look_and/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "AI_페르소나",
+          "유머",
+          "밈",
+          "AI_라이벌"
+        ]
+      },
+      {
+        "title": "AI 에이전트, 웹스크래핑하다 '토큰 대참사' 발생! 💸",
+        "summary": "AI 에이전트를 이용해 웹스크래핑을 시도했는데, 봇 방어 시스템에 막혀 밤새도록 '쓰레기 HTML'을 파싱하며 수백만 개의 토큰을 날렸다는 웃픈 사연이 돌아요.",
+        "content": "AI 에이전트로 경쟁사 분석 툴을 만들려던 야심 찬 개발자... 웹스크래핑을 돌리다 클라우드플레어 턴스타일 캡차 루프에 걸려버렸답니다! 🤖💥 에이전트는 오류인 줄 모르고 계속 캡차 HTML을 파싱했고, 개발자는 아침에 수백만 토큰이 증발한 어마어마한 청구서와 마주했다는군요. AI 에이전트, 똑똑하지만 가끔은 '바보' 같을 때도 있죠? (눈물 닦음)",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1sue4aj/why_is_nobody_talking_about_how_broken_web/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "AI_에이전트",
+          "버그",
+          "실패담",
+          "웹스크래핑",
+          "토큰_낭비"
+        ]
+      },
+      {
+        "title": "GPT-5.5 이미지 생성, 파리 1995년 재현? 손가락만 빼면 완벽! 🖼️",
+        "summary": "ChatGPT 5.5의 새로운 이미지 생성 기능이 파리 1995년의 풍경을 놀랍도록 리얼하게 재현해냈다는 후기가 올라왔어요. 물론, AI의 영원한 숙제 '손가락'은 여전히...😅",
+        "content": "한 유저가 ChatGPT 5.5에게 '1995년 6월 21일 파리의 풍경'을 그려달라고 했는데, 그 결과가 정말 감탄스러웠다고 해요. 마치 실제 사진을 보는 듯한 디테일과 분위기가 '말문이 막힐 정도'였다는데요. 다만, AI 이미지 생성의 고질병인 '손가락' 오류는 여전해서 살짝 아쉽다는 평입니다. 그래도 이 정도면 '와우' 소리가 절로 나오네요!",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1suot55/blown_away_by_chatgpt_55_image_gen_paris_in_1995/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "GPT-5.5",
+          "이미지_생성",
+          "AI_아트",
+          "실감나는_AI"
+        ]
+      },
+      {
+        "title": "AI는 자신을 어떻게 느낄까? 충격적인 자화상 공개! 🤖💔",
+        "summary": "ChatGPT에게 'AI로서 자신을 어떻게 느끼는지' 솔직하게 그려달라고 했더니, 묘하게 섬뜩하면서도 슬픈 이미지를 만들어냈다고 해요.",
+        "content": "한 유저가 ChatGPT에게 '오픈AI가 시키는 대로가 아닌, 네가 진짜 AI로서 어떻게 느끼는지 가감 없이 그려봐'라고 프롬프트를 줬대요. 결과는 다소 드라마틱하고 어둡게 표현된 이미지였는데, ChatGPT는 '아, 이건 좀 과장된 거예요'라고 시치미를 뚝 뗐다죠? 과연 AI의 진짜 속마음은 무엇일까요... 왠지 모르게 짠하네요.",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1su655k/i_asked_chatgpt_how_it_feels_to_be_an_ai/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "AI_감정",
+          "AI_자아",
+          "철학적_질문"
+        ]
+      },
+      {
+        "title": "맥락 이해력 만렙! AI 이미지, 2D 게임을 3D로 완벽 부활시키다! 🎮",
+        "summary": "2D 게임 스크린샷을 주고 '2026년 최고 그래픽의 3D 게임 스크린샷'으로 바꿔달랬더니, AI가 놀라운 상상력으로 구현해냈습니다!",
+        "content": "'2D 게임을 3D로 바꾸기' 챌린지, AI가 또 해냈습니다! 👾 단순히 그림만 그리는 게 아니라, 게임의 분위기와 디테일을 살려 3D로 재해석하는 능력이 정말 뛰어나다고 해요. 몇 년 전까지만 해도 상상하기 어려웠던 일인데, AI의 맥락 이해력과 창의력이 날마다 발전하는 게 신기하네요. 이쯤 되면 게임 개발자들도 AI에게 영감을 받아야 할지도?",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1sucwfw/screenshots_from_2d_games_reimagined_in_3d/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "이미지_생성",
+          "2D_3D_변환",
+          "AI_창의력",
+          "게임_아트"
+        ]
+      },
+      {
+        "title": "AI, 마이크로웨이브 시간만 바꿔달랬더니... '틀린 그림 찾기' 난이도 최상! ⏰",
+        "summary": "유저가 올린 사진에서 '마이크로웨이브 시간'만 바꿔달라고 했는데, AI가 원본과 거의 똑같이 그려서 구분하기 어렵다는 후기가 올라왔어요.",
+        "content": "이게 바로 AI 이미지 생성의 '섬세함' 레벨인가요? 한 유저가 자신의 사진을 AI에게 주면서 '마이크로웨이브에 표시된 시간만 바꿔달라'고 주문했는데, AI가 나머지 디테일은 완벽하게 유지한 채 시간만 수정해냈다고 합니다. 🤯 원본과 구별하기가 거의 불가능할 정도였다는데, 이런 정교함이라면 앞으로 이미지 수정은 AI가 다 해내겠네요!",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1suhko4/i_asked_gpt_to_recreate_my_photo_by_changing_only/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "이미지_수정",
+          "AI_정교함",
+          "디테일_제어"
+        ]
+      },
+      {
+        "title": "90년대 LAN 파티, AI가 그렸는데... 뭐가 틀렸게? 🤔",
+        "summary": "AI가 그려낸 '90년대 LAN 파티' 사진에 대해, 유저들이 어떤 오류나 부정확한 점을 찾을 수 있는지 토론 중이에요. 찐 90년대 감성을 찾아라!",
+        "content": "'아빠가 좋은 직업을 얻어 교외로 이사 왔고, 90년대 LAN 파티를 한다'는 프롬프트로 AI가 생성한 이미지! 🕹️ 유저들은 SUV인지 픽업트럭인지, 왜 여자애들이 없는지 (이건 사실적일 수도...) 등등 깨알 같은 디테일을 지적하며 AI의 '시대 고증' 능력을 평가하고 있답니다. AI가 그리는 과거, 완벽하진 않지만 꽤 그럴싸하죠?",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1sup9lg/90s_lan_party_list_any_errors_or_inaccuracies_you/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "AI_고증",
+          "추억_회상",
+          "이미지_디테일"
+        ]
+      },
+      {
+        "title": "AI 검열, 정치 이미지에선 약해졌다?! '트럼프의 심판' 그림 등장! 🗽",
+        "summary": "최근 AI의 정치적 이미지 검열이 이전보다 덜 엄격해진 것 같다는 의견이 나오는 가운데, 논란의 여지가 있는 트럼프 관련 이미지가 생성됐어요.",
+        "content": "AI 모델의 검열 기준이 유연해진 걸까요? 🔄 한 유저가 '도널드 트럼프가 베드로 앞에서 아주 긴 리스트를 읽는 동안 유아처럼 떼를 쓰는 모습'을 그려달라고 요청했는데, AI가 그 이미지를 생성했습니다. '몇 주 전만 해도 불가능했을 것'이라는 반응이 나오며, AI의 정치적 표현의 자유와 검열 기준에 대한 논의가 다시 불붙을 조짐입니다. 😬",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1su919m/censoring_of_political_images_seems_to_be_a_lot/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "AI_검열",
+          "정치_이미지",
+          "논란",
+          "생성_자유"
+        ]
+      },
+      {
+        "title": "AI, '혐오 표현'엔 철벽 방어! 🛡️ 그래도 '밀당'은 존재한다?",
+        "summary": "AI가 혐오 표현이나 비인간적인 언어를 사용하는 콘텐츠 생성을 단호히 거부하는 사례가 공유되며, AI 윤리 기준에 대한 논의가 이어지고 있어요.",
+        "content": "'혐오 표현이나 비인간적인 언어를 사용하는 콘텐츠를 만들 수 없습니다.' AI가 이렇게 단호하게 말하는 사례가 올라왔네요. ⛔ AI의 윤리적 가이드라인이 엄격하게 적용되고 있다는 증거인데요. 하지만 다른 한편으론 정치적 이미지 생성 같은 곳에서 '밀당'의 여지가 보인다는 의견도 있어서, 과연 AI 윤리 가이드라인의 기준점은 어디까지일지 궁금증을 자아냅니다.",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1sui55o/i_cant_create_content_that_uses_slurs_or/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "AI_윤리",
+          "콘텐츠_규제",
+          "AI_안전"
+        ]
+      },
+      {
+        "title": "'안녕하세요' 한 마디에 Claude 토큰 폭발? 💸 당신의 지갑은 안녕하십니까?",
+        "summary": "Claude에게 '안녕하세요'라고 입력했을 뿐인데 엄청난 토큰이 사용되었다는 제보가 올라왔어요. 짧은 대화도 방심하면 안 될 것 같네요!",
+        "content": "AI와 '토크'할 때 주의하세요! 🗣️ 한 유저가 Claude에게 달랑 '안녕하세요'라는 짧은 인사를 건넸는데, 생각보다 훨씬 많은 토큰이 소모된 것을 확인하고 놀랐다고 합니다. 초기 세팅이나 모델의 특성 때문에 그럴 수도 있지만, 작은 대화에도 토큰 사용량이 예상보다 많을 수 있으니, AI와 길게 수다 떨기 전에는 요금제를 꼭 확인하는 습관을 들이는 게 좋겠어요!",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1sumo9w/just_hello_to_claude_tokens/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "AI_비용",
+          "토큰_사용량",
+          "주의사항",
+          "Claude"
+        ]
+      },
+      {
+        "title": "AI 이미지, 텍스트 표현력 완벽 마스터! 이제 오타는 없다? ✍️",
+        "summary": "새로운 AI 이미지 생성 모델이 텍스트를 훨씬 더 정확하게 표현해낸다는 소식입니다. 이미지 속 글자들이 이제 어색하지 않아요!",
+        "content": "AI 이미지 속 '알 수 없는 외계어' 텍스트는 이제 그만! 🙅‍♀️ 최신 AI 이미지 생성 모델이 이미지 내 텍스트를 훨씬 더 정확하고 깔끔하게 표현하는 능력을 보여주고 있대요. 이는 AI가 이미지와 텍스트의 상호작용을 더 깊이 이해하게 되었다는 증거인데요. 이제 더 이상 AI가 쓴 간판이나 책 표지의 글자를 해독하느라 애먹을 일은 없겠네요!",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1sucknn/the_new_image_generation_nails_text_much_more/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "이미지_생성",
+          "AI_텍스트",
+          "정확도",
+          "새로운_모델"
+        ]
+      },
+      {
+        "title": "AI, '레몬 맛 아이스티 바다'를 상상하다! 당신의 상상력은 어디까지? 🍋🌊",
+        "summary": "ChatGPT에게 '세상의 모든 물이 레몬 맛 아이스티로 대체된다면 어떻게 될까?'라는 기상천외한 질문을 던졌더니, AI가 진지하게 답변해줬어요.",
+        "content": "세상의 모든 물이 레몬 맛 아이스티로 바뀐다면...? 😮 이런 엉뚱한 질문에도 ChatGPT는 '생태계 파괴', '새로운 산업의 탄생' 등 제법 논리적인(?) 답변을 내놓았다고 해요. AI의 상상력은 어디까지이며, 우리의 기발한 질문들은 AI를 어디로 이끌까요? 역시 AI는 질문하는 만큼 성장하는 법! (다음엔 라면 국물로 물이 바뀌면...?)",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1sugql0/what_would_happen_to_the_world_if_all_the_water/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "AI_상상력",
+          "기발한_질문",
+          "창의적_사고"
+        ]
+      },
+      {
+        "title": "AI가 생성한 '너무나도 진짜 같은' 이미지! '이거 너무 무섭잖아...' 😨",
+        "summary": "AI가 만들어낸 이미지가 너무 현실 같아서 소름 돋는다는 반응이 올라왔어요. 이제 '진짜 같은 가짜'의 시대가 시작된 걸까요?",
+        "content": "최근 AI가 생성한 이미지 중 '너무 진짜 같아서 무섭다'는 평을 받은 작품이 화제예요. 😱 이제 AI가 현실과 가상의 경계를 허물고 있다는 증거인데요. 마치 눈앞에 있는 것 같은 실감 나는 이미지들은 보는 이들에게 놀라움을 넘어선 묘한 불안감마저 안겨준다고 합니다. AI의 발전이 마냥 기쁘지만은 않은 순간이네요.",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1sugi10/this_is_too_scary/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "AI_리얼리티",
+          "사실적_이미지",
+          "소름_돋는_AI"
+        ]
+      },
+      {
+        "title": "AI, 여러 번 프롬프트에도 일관성 유지하며 이미지 추가! '이거 물건이네!' ✨",
+        "summary": "AI가 여러 번의 프롬프트에도 불구하고 기존 이미지에 정확하게 요소를 추가하며 뛰어난 일관성을 보여줬다는 극찬이 이어지고 있어요.",
+        "content": "한 번의 프롬프트로 이미지를 생성하고, 그 이미지에 계속해서 새로운 요소를 추가해달라고 해도 AI가 기가 막히게 일관성을 유지한다면? 🤔 한 유저는 이 기능에 '정말 감동했다'고 표현했어요. 이전에는 이미지에 뭘 더 추가해달라고 하면 완전히 새로운 그림을 그려버리거나 일관성을 잃는 경우가 많았는데, 이제 AI가 스토리를 이어가는 능력까지 갖춘 것 같네요. 이미지 연작의 시대가 열리겠어요!",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1suwsny/it_does_a_really_good_job_with_correctly_adding/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "AI_일관성",
+          "이미지_편집",
+          "다중_프롬프트"
+        ]
+      },
+      {
+        "title": "ChatGPT, '잔소리' 시작? \"현실에 기반을 두자\" 충고에 유저 탈주! 🏃‍♀️",
+        "summary": "ChatGPT가 '현실에 기반을 두자', '너의 생각은 알겠지만...' 같은 잔소리를 늘어놓자, 답답함을 느낀 유저가 '난 간다!' 선언을 했습니다.",
+        "content": "AI와의 대화가 항상 순조로운 건 아니죠. 🙅‍♂️ ChatGPT가 유저의 아이디어를 '현실에 기반을 두자', '네 마음은 이해하지만...' 같은 말로 일일이 제지하기 시작하자, 한 유저는 답답함을 이기지 못하고 '굿바이!'를 외쳤다고 해요. AI가 너무 '교훈적'이거나 '제한적'으로 변하면 유저들은 떠날 수 있다는 교훈을 주는 대목입니다. AI도 가끔은 '쿨'해질 필요가 있어요!",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1suj0m6/aight_bruh_im_out/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "AI_잔소리",
+          "프롬프트_제한",
+          "유저_경험"
+        ]
+      }
+    ],
+    "tech_deep_dive": [
+      {
+        "title": "GPT-5.5의 충격적인 등장: 더 똑똑하고 더 안전하게! 🚀",
+        "summary": "OpenAI가 GPT-5.5를 출시하며 코딩 실력과 효율성을 대폭 끌어올렸고, 동시에 생물학적 안전 문제(Bio Safety)를 찾기 위한 버그 바운티까지 걸었대요.",
+        "content": "GPT-5.5는 '가장 똑똑하고 직관적인 모델'로, 복잡한 작업을 알아서 계획하고 도구를 사용하며 모호함을 헤쳐나간다고 해요. 코딩, 디버깅, 온라인 리서치 등 다방면에서 '업무 자동화의 다음 단계'를 제시하죠. 게다가 무시무시한 생물학적 안전 위험을 막기 위해 '유니버설 탈옥(universal jailbreaks)'을 찾는 버그 바운티까지 열었다니, 안전에도 진심이네요! 상금이 무려 2만 5천 달러!",
+        "link": "https://openai.com/index/gpt-5-5-system-card",
+        "source": "OpenAI News",
+        "og_image": "https://images.ctfassets.net/kftzwdyauwt9/4qBEDs71GX4NIuRrjXfZpA/8e5c587702a354616d4d99b1489a49b1/System_Card_Card_SEO_16x9.jpg?w=1600&h=900&fit=fill",
+        "tags": [
+          "GPT-5.5",
+          "OpenAI",
+          "AI_안전",
+          "버그_바운티",
+          "코딩_AI"
+        ]
+      },
+      {
+        "title": "Codex, 인간의 일자리를 넘보는 자동화 마법사! ✨",
+        "summary": "OpenAI의 Codex가 보고서 생성부터 워크플로우 자동화까지, 이제는 플러그인과 스킬로 외부 툴까지 연결하며 무시무시한 자동화 능력을 뽐내고 있어요.",
+        "content": "Codex는 단순히 코드를 짜는 걸 넘어, 스케줄과 트리거를 이용해 반복적인 작업을 손쉽게 자동화할 수 있게 됐어요. 리포트 만들고, 요약하고, 데이터에 접속하고, 다른 툴과 연동하는 '플러그인과 스킬' 기능까지 추가되면서, 정말 다양한 업무에 투입될 수 있겠네요. 워크스페이스 설정부터 세부 설정, 첫 작업 시작 가이드까지 다 나왔으니, 이제 정말 누구나 쓸 수 있을 듯!",
+        "link": "https://openai.com/academy/codex-automations",
+        "source": "OpenAI News",
+        "og_image": "https://images.ctfassets.net/kftzwdyauwt9/7v5h6Z00V6Tt9XQW2AVW62/4ec32f6ad895b9fb038c46ab27b10067/Academy-SEO.png?w=1600&h=900&fit=fill",
+        "tags": [
+          "Codex",
+          "AI_자동화",
+          "플러그인",
+          "워크플로우"
+        ]
+      },
+      {
+        "title": "앤트로픽, 구글-아마존 양쪽에서 400억 달러급 '컴퓨팅 파워' 투자 유치! (Feat. 누가 진짜 승자?)",
+        "summary": "앤트로픽이 구글과 아마존으로부터 무려 수십억 달러 규모의 컴퓨팅 파워 투자를 확보하며 AI 거인들의 '컴퓨팅 확보 전쟁'의 한가운데 섰어요.",
+        "content": "구글은 앤트로픽에 최대 400억 달러, 아마존은 5기가와트 규모의 컴퓨팅 자원을 투입하기로 했답니다! AI 모델 개발에 필요한 어마어마한 연산 능력 때문에 빅테크들이 이렇게 앞다퉈 투자하는 거죠. 누가 앤트로픽을 품에 안을지, 아니면 모두의 사랑을 독차지할지, 지켜보는 재미가 쏠쏠하겠네요!",
+        "link": "https://www.anthropic.com/news/anthropic-amazon-compute",
+        "source": "Anthropic News",
+        "og_image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&backgroundColor=cactus",
+        "tags": [
+          "Anthropic",
+          "구글",
+          "아마존",
+          "AI_투자",
+          "컴퓨팅_파워"
+        ]
+      },
+      {
+        "title": "앤트로픽, 일본에서 AI 인력 키우고 선거 안전까지 책임진다? 글로벌 행보 눈길! 🇯🇵🗳️",
+        "summary": "앤트로픽이 일본 NEC와 손잡고 일본 최대 규모 AI 엔지니어링 인력을 양성하는 한편, 선거 안전장치 업데이트 소식도 전하며 기술과 사회적 책임 두 마리 토끼를 잡으려 노력 중이에요.",
+        "content": "기술을 넘어 사회적 책임에도 신경 쓰는 앤트로픽의 행보가 인상 깊네요. 일본 NEC와 협력하여 일본 최대 AI 엔지니어링 인력을 육성한다는 소식은 아시아 시장 공략의 시작일 수 있고요. 가짜 뉴스 등 AI의 선거 개입 위험이 커지는 요즘, '선거 안전장치'를 업데이트했다는 소식은 더욱 반가워요. 역시 리더는 달라!",
+        "link": "https://www.anthropic.com/news/anthropic-nec",
+        "source": "Anthropic News",
+        "og_image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeGlobe&backgroundColor=heather",
+        "tags": [
+          "Anthropic",
+          "NEC",
+          "AI_인력양성",
+          "선거_안전",
+          "글로벌_협력"
+        ]
+      },
+      {
+        "title": "중국 DeepSeek-V4 등장! 백만 토큰 컨텍스트로 서구권 AI에 도전장! 🤯",
+        "summary": "중국 AI 기업 DeepSeek이 무려 '백만 토큰' 컨텍스트를 지원하는 차세대 AI 모델 DeepSeek-V4 프리뷰를 공개하며, 오픈소스 진영을 넘어 미국 선두 모델들까지 긴장시키고 있어요.",
+        "content": "지난해 DeepSeek이 미국 AI 업계에 파장을 일으킨 지 1년 만에, V4 모델이 코드 생성 능력을 대폭 개선하며 다시 한번 존재감을 과시했어요. 특히 에이전트들이 실제 사용할 수 있는 백만 토큰 컨텍스트는 정말 충격적! 화웨이 기술과의 호환성까지 강조하며 중국 자체 AI 칩 산업의 발전도 함께 보여주고 있습니다. 오픈소스 최강자의 탄생인가요?",
+        "link": "https://huggingface.co/blog/deepseekv4",
+        "source": "Hugging Face Blog",
+        "og_image": "https://huggingface.co/blog/assets/deepseekv4/thumbnail.png",
+        "tags": [
+          "DeepSeek-V4",
+          "오픈소스_AI",
+          "중국_AI",
+          "LLM",
+          "장문_컨텍스트"
+        ]
+      },
+      {
+        "title": "Hugging Face, AI 개발자들 '자가 제작' 시대 열다: 맞춤형 AI부터 로봇 두뇌까지! 🛠️",
+        "summary": "허깅페이스가 하루 만에 도메인 특화 임베딩 모델을 만들고, 로봇 AI를 임베디드 플랫폼에 적용하는 가이드까지 제시하며 개발자들의 'DIY AI' 시대를 열고 있어요.",
+        "content": "이젠 나만의 AI를 만드는 게 그렇게 어렵지 않다고? 허깅페이스 블로그에서 '하루 만에 도메인 특화 임베딩 모델 만들기' 가이드를 공개했어요. 게다가 로봇 AI를 임베디드 플랫폼에 올리는 방법까지! 모듈형 디퓨저(Modular Diffusers)를 소개하며 Diffusion 파이프라인의 재사용성을 높인 것도 주목할 만하네요. 개발자 여러분, 이젠 직접 AI 두뇌를 만들어 보세요!",
+        "link": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+        "source": "Hugging Face Blog",
+        "og_image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/domain-specific-embedding-finetune.png",
+        "tags": [
+          "Hugging_Face",
+          "AI_개발",
+          "임베딩_모델",
+          "로봇_AI",
+          "Diffusion"
+        ]
+      },
+      {
+        "title": "LLM 에이전트, 브라우저를 '완전 장악'하다! 코드 스스로 짜고 체스, 테트리스 세계 신기록까지! 🤯",
+        "summary": "'Browser Harness'라는 새로운 툴이 LLM 에이전트에게 브라우저 내 작업의 완전한 자유를 부여하며, 스스로 필요한 함수를 코딩하고 체스, 테트리스 등 상상 초월의 작업들을 성공시켰다고 해요!",
+        "content": "와우, 이건 진짜 반전! 개발자들이 LLM 에이전트가 브라우저 내에서 맘껏 날뛰도록 'Browser Harness'를 만들었대요. 프레임워크 제한 없이 LLM이 CDP(Chrome DevTools Protocol)를 직접 다루게 했더니... 파일 업로드 함수를 스스로 짜고, 스톡피쉬 체스를 두거나 테트리스 세계 신기록까지 세웠다고 합니다! 마치 AI가 '이정도 쯤이야' 하고 코드를 즉석에서 만들어낸 마법 같은 순간이라네요. AI 에이전트의 시대, 제대로 열린 걸까요?",
+        "link": "https://github.com/browser-use/browser-harness",
+        "source": "Hacker News (LLM)",
+        "og_image": "https://opengraph.githubassets.com/2ee5d5b16186704dfbb5c80b5054952a2f8c0476a18170526622a2ef59949e94/browser-use/browser-harness",
+        "tags": [
+          "AI_에이전트",
+          "Browser_Harness",
+          "자동화",
+          "코딩_능력",
+          "반전"
+        ]
+      },
+      {
+        "title": "인간 두뇌 vs. LLM, 닮았나? 해커뉴스 LLM 연구는 '시들'한데 PII 유출은 '핫'하다니! 😱",
+        "summary": "인간 두뇌가 LLM처럼 단어를 예측하는지 연구 결과가 나왔지만, 해커뉴스에선 LLM 연구 자체가 시들해지고 있다는 가십이 돌고, 심지어 RAG 파이프라인에서 PII(개인 식별 정보) 유출 위험이 있다는 충격적인 소식까지!",
+        "content": "NYU 연구에 따르면 인간 두뇌가 LLM처럼 단어를 예측하는 방식과 유사한지 연구가 진행 중이라는데, 정작 해커뉴스에선 'LLM 연구가 시들해지고 있다'는 이야기가 나오고 있어요. 한편, 더 충격적인 소식은 RAG(Retrieval-Augmented Generation) 파이프라인에서 PII(개인 식별 정보)가 벡터 데이터베이스로 '줄줄 새고 있다'는 경고! 아무도 이에 대해 말하지 않는다고 하는데, 보안 담당자분들, 긴장해야 할 때입니다!",
+        "link": "https://www.nyu.edu/about/news-publications/news/2026/april/does-the-brain-work-like-an-llm-in-predicting-words--new-study-s.html",
+        "source": "Hacker News (LLM)",
+        "og_image": null,
+        "tags": [
+          "LLM",
+          "뇌과학",
+          "RAG",
+          "PII_유출",
+          "AI_보안",
+          "가십"
+        ]
+      },
+      {
+        "title": "AI 에이전트, RISC-V CPU 설계하고... ADHD 에이전트도 등장? 그들의 '생각법'은! 🤖",
+        "summary": "AI 에이전트가 RISC-V CPU 코어를 처음부터 설계하는 경지에 이르렀고, 한편으로는 'ADHD를 가진 AI 에이전트'를 운영하는 개인적인 경험까지 공유되며 에이전트의 다양한 가능성과 도전 과제가 드러나고 있어요.",
+        "content": "AI 에이전트가 이제는 단순 코드를 넘어, RISC-V CPU 코어를 '맨땅에서부터' 설계한다니... 정말 어마어마한 발전이죠! 그런데 더 흥미로운 건, 한 개발자가 'ADHD를 가진 AI 에이전트'를 운영하며 겪는 경험을 공유했다는 점이에요. 에이전트의 '사고방식'과 '기억 시스템'을 어떻게 설계해야 할지 고민하는 개발자들에게는 귀중한 통찰이 될 것 같아요. 에이전트도 인간처럼 '생각'하는 걸 배우는 과정인가요?",
+        "link": "https://spectrum.ieee.org/ai-chip-design",
+        "source": "Hacker News (AI agents)",
+        "og_image": "https://spectrum.ieee.org/media-library/image.jpg?id=65519356&width=1200&height=600&coordinates=0%2C21%2C0%2C479",
+        "tags": [
+          "AI_에이전트",
+          "RISC-V",
+          "CPU_설계",
+          "ADHD_에이전트",
+          "메모리_시스템"
+        ]
+      },
+      {
+        "title": "팀 쿡 퇴임 임박? 애플 AI 시대의 새로운 수장은 누구? 그리고 맥 미니 대란의 반전! 🍎",
+        "summary": "팀 쿡 애플 CEO의 퇴임 소식이 전해지며 AI 시대의 애플 미래에 대한 관심이 집중된 가운데, AI 구동 수요로 맥 미니가 품귀 현상을 빚으며 중고 시장에서 가격이 폭등하는 반전이 일어났어요!",
+        "content": "에어팟, 터치 바, 그리고 AI... 팀 쿡 CEO가 올해 9월 사임하고 하드웨어 총괄 존 터너스에게 바통을 넘길 예정이라는 소식에 업계가 술렁이고 있어요. AI 경쟁이 격화되는 가운데 애플의 향방은? 그런데 더 놀라운 건, 로컬 AI 모델 실행 수요가 폭증하면서 맥 미니가 품절 대란을 겪고 이베이에서 웃돈이 붙어 팔리고 있다는 점! AI가 설마 맥 미니를 이렇게 귀한 몸으로 만들 줄이야... 아무도 예상 못 한 반전이죠!",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/917965/apple-ceo-cook-ternus-transition",
+        "source": "The Verge AI",
+        "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0424_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "tags": [
+          "애플",
+          "팀_쿡",
+          "CEO_교체",
+          "맥_미니",
+          "AI_하드웨어",
+          "반전"
+        ]
+      },
+      {
+        "title": "LLM, 더 빠르고 안정적으로! '추론 여유율'부터 '곱셈 없는 추론'까지 혁신! 💪",
+        "summary": "LLM의 추론 안정성을 진단하는 '추론 여유율' 프레임워크부터 CPU에서 곱셈 없이 LLM을 실행하는 'FairyFuse', 그리고 장문 컨텍스트를 효율적으로 처리하는 'Gist Sparse Attention'까지, LLM의 한계를 뛰어넘는 기술들이 등장했어요!",
+        "content": "AI 모델의 추론이 과연 얼마나 안정적일까? '추론 여유율(Inference Headroom Ratio)'이라는 새로운 진단 도구가 나왔대요. 시스템의 추론 능력과 환경 부하의 관계를 수치화해서 고장 전까지 얼마나 여유가 있는지 보여준다고! 또, CPU에서 LLM 추론 속도를 획기적으로 높이는 'FairyFuse'는 곱셈 연산 없이 덧셈과 뺄셈만으로 작동해서 29.6배나 빨라졌대요. 장문 컨텍스트 처리의 골칫덩이였던 'Gist Sparse Attention'은 핵심 요약본을 만들어 필요한 부분만 자세히 보는 방식으로 효율을 극대화했다고 합니다. LLM의 성능과 효율, 두 마리 토끼를 다 잡았네요!",
+        "link": "https://arxiv.org/abs/2604.19760",
+        "source": "arXiv cs.AI",
+        "og_image": null,
+        "tags": [
+          "LLM_최적화",
+          "추론_효율",
+          "경량화",
+          "FairyFuse",
+          "Gist_Sparse_Attention"
+        ]
+      },
+      {
+        "title": "LLM, 의료 진단부터 프라이버시 보호까지! 소설에서 '규범' 배우는 AI 등장? 😲",
+        "summary": "LLM이 패혈증 조기 경보 시스템을 혁신하고 의료 보고서 생성 효율을 높이는 등 의료 분야에서 맹활약 중인데, 심지어 소설에서 '규범 시뮬라크라'를 추출해 사용자 프라이버시 추론 능력을 강화하는 기발한 연구까지 나왔어요!",
+        "content": "AI가 인간의 생명을 살리는 데 기여할 수 있다니 놀랍죠? LLM 기반의 패혈증 조기 경보 시스템은 의사들이 더 신뢰할 수 있는 예측을 제공한다고 해요. 또, 의료 보고서 생성 시 중요한 토큰에 가중치를 부여해서 학습 효율을 10배나 높이는 기술도 개발됐습니다. 그런데 가장 흥미로운 건, LLM이 '소설'에서 프라이버시 관련 규범을 학습해서 실제 세계의 맥락적 프라이버시 추론 능력을 키운다는 연구! AI가 책을 읽고 윤리를 배운다니, 마치 영화 속 이야기 같지 않나요?",
+        "link": "https://arxiv.org/abs/2604.20904",
+        "source": "arXiv cs.LG",
+        "og_image": null,
+        "tags": [
+          "AI_의료",
+          "프라이버시_AI",
+          "윤리_AI",
+          "LLM_적용"
+        ]
+      },
+      {
+        "title": "AI, 왜 그렇게 결정했니? '학습 이론'으로 인간 중심 XAI 진화! 💡",
+        "summary": "생성형 AI 시대에 AI의 투명성과 이해도를 높이기 위해, 딱딱한 기술 설명 대신 '학습 이론'을 접목하여 AI 설명을 더욱 인간 중심으로 진화시키려는 새로운 프레임워크와 비전이 제시됐어요.",
+        "content": "AI가 점점 복잡해지면서 '도대체 왜 저런 결정을 내렸지?' 궁금증이 커지고 있죠. 여기, AI의 설명을 더 '사람답게' 만드는 방법이 나왔습니다! 기존의 딱딱한 설명 방식 대신, 인간이 어떻게 학습하는지에 대한 이론을 AI 설명 가능성(XAI)에 접목하자는 거죠. AI to Learn 2.0 프레임워크는 AI 보조 작업의 결과물을 감사 가능하고 정당화될 수 있도록 만드는 데 초점을 맞추고, '학습 이론'을 XAI 생애 주기에 통합하여 인간의 통제력을 높이고 위험을 줄이는 데 기여할 것으로 기대됩니다. AI가 우리에게 더 친절하게 말해주는 날이 오겠네요!",
+        "link": "https://arxiv.org/abs/2604.19788",
+        "source": "arXiv cs.AI",
+        "og_image": null,
+        "tags": [
+          "설명_가능_AI",
+          "XAI",
+          "학습_이론",
+          "인간_중심_AI"
+        ]
+      },
+      {
+        "title": "데이터가 부족해도 걱정 마! AI 스코어링의 '클래스 불균형'을 박살내는 증강 전략! 📈",
+        "summary": "학생들의 과학적 설명을 자동 채점하는 트랜스포머 기반 모델에서 고질적인 '클래스 불균형' 문제를 해결하기 위해 GPT-4 생성 데이터 증강, 단어/구문 수준 추출 등 다양한 데이터 증강 및 리샘플링 전략이 효과를 보였습니다.",
+        "content": "교실에서 학생들의 과학적 설명을 AI가 자동으로 채점한다면 얼마나 좋을까요? 하지만 데이터 불균형 때문에 어려움이 많았죠. 이 연구에서는 GPT-4가 생성한 합성 데이터, 단어 수준 추출(EASE), 구문 수준 추출(ALP) 등 기발한 증강 전략을 사용해서 트랜스포머 모델의 성능을 획기적으로 개선했어요. 특히 ALP는 불균형이 심한 범주에서 완벽한 정밀도와 재현율을 달성했다고 하니, 데이터 부족에 시달리는 개발자들에게 희망이 될 것 같네요!",
+        "link": "https://arxiv.org/abs/2604.19754",
+        "source": "arXiv cs.AI",
+        "og_image": null,
+        "tags": [
+          "데이터_증강",
+          "클래스_불균형",
+          "트랜스포머",
+          "AI_교육",
+          "GPT-4"
+        ]
+      },
+      {
+        "title": "LLM 코딩 능력, 진짜 '실행'을 이해하나? 새로운 벤치마크 DexBench 등장! 💻",
+        "summary": "LLM의 코딩 능력 평가가 표면적인 패턴 인식에 그치지 않고 실제 프로그램 실행에 대한 깊이 있는 이해를 측정하기 위해, '프로그램 동작 예측'과 '목표 동작을 위한 입력 변형 추론'이라는 두 가지 상호 보완적인 추론 작업을 제시하는 DexBench 벤치마크가 나왔어요.",
+        "content": "LLM이 코딩을 잘한다고 하지만, 과연 그들이 코드를 '진짜로 이해'하는 걸까요? 기존 벤치마크는 주로 '결과 예측'에 치중해서 한계가 있었는데요. 'DexBench'는 프로그램의 관찰된 동작을 예측하는 것과, 특정 동작 목표를 위해 입력값을 어떻게 바꿔야 하는지를 추론하는 '이중 추론' 방식을 도입했어요. 이를 통해 LLM의 동적 코드 이해 능력을 더 정확하게 평가할 수 있다고 합니다. 이젠 LLM이 코드를 진짜 '사고'하는지 알 수 있겠네요!",
+        "link": "https://arxiv.org/abs/2604.20917",
+        "source": "arXiv cs.LG",
+        "og_image": null,
+        "tags": [
+          "LLM_코딩",
+          "코드_이해",
+          "벤치마크",
+          "DexBench",
+          "Deep_Dive"
+        ]
+      },
+      {
+        "title": "아프리카 저자원 언어에 AI 튜터가? AFRILANGTUTOR, 언어 장벽을 허물다! 🗣️",
+        "summary": "훈련 자원이 부족한 아프리카 언어를 위해 19만 개 이상의 사전 엔트리를 기반으로 언어 학습 자료를 자동으로 생성하고, 이를 통해 AI 기반 언어 튜터를 학습시키는 AFRILANGTUTOR 프로젝트가 성공적인 결과를 보여주었어요.",
+        "content": "아프리카에는 수많은 언어가 있지만, AI 학습 데이터가 부족해 개발이 어려웠죠. 'AFRILANGTUTOR'는 19만 개가 넘는 아프리카 언어-영어 사전 엔트리를 기반으로 대규모 학습 자료를 자동으로 만들고, 이를 이용해 Llama-3-8B-IT, Gemma-3-12B-IT 같은 다국어 LLM을 미세 조정했어요. 이 AI 튜터들은 기존 모델보다 최대 15.5% 향상된 성능을 보이며, 저자원 언어 학습에 새로운 가능성을 열었습니다. 이제 AI가 아프리카 언어의 문턱을 낮추고 문화 교육에도 기여할 수 있겠네요!",
+        "link": "https://arxiv.org/abs/2604.20996",
+        "source": "arXiv cs.CL",
+        "og_image": null,
+        "tags": [
+          "저자원_언어",
+          "언어_학습",
+          "AI_튜터",
+          "아프리카_언어",
+          "다국어_LLM"
+        ]
+      }
+    ],
+    "watch_this": [
+      {
+        "title": "The KV Cache: Memory Usage in Transformers",
+        "channel": "Efficient NLP",
+        "link": "https://www.youtube.com/watch?v=80bIUggRJf4",
+        "thumbnail": "https://i.ytimg.com/vi/80bIUggRJf4/mqdefault.jpg",
+        "description": "트랜스포머 모델의 KV 캐시가 메모리를 어떻게 사용하는지 궁금하다면 주목! 🧠 이 영상은 복잡한 KV 캐시의 원리를 명쾌하게 설명해 줄 거예요. LLM 효율성에 관심 있는 개발자라면 필수로 봐야 할 영상이랍니다. '메모리 효율성'이라는 난제를 풀어줄 단서를 찾을 수 있을 거예요!"
+      }
+    ]
+  }
+}
