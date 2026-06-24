@@ -61,7 +61,9 @@ export default function RootLayout({
         <Script
           src="https://static.cloudflareinsights.com/beacon.min.js"
           strategy="afterInteractive"
-          data-cf-beacon='{"token":"bf6b670bba864f1ab6c03c4e0dfedb75"}'
+          data-cf-beacon={JSON.stringify({
+            token: "bf6b670bba864f1ab6c03c4e0dfedb75",
+          })}
         />
       </body>
     </html>
