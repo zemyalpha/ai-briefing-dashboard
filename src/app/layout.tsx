@@ -58,15 +58,11 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {children}
-        {process.env.NEXT_PUBLIC_CLOUDFLARE_BEACON_TOKEN ? (
-          <Script
-            src="https://static.cloudflareinsights.com/beacon.min.js"
-            strategy="afterInteractive"
-            data-cf-beacon={JSON.stringify({
-              token: process.env.NEXT_PUBLIC_CLOUDFLARE_BEACON_TOKEN,
-            })}
-          />
-        ) : null}
+        <Script
+          src="https://static.cloudflareinsights.com/beacon.min.js"
+          strategy="afterInteractive"
+          data-cf-beacon='{"token":"bf6b670bba864f1ab6c03c4e0dfedb75"}'
+        />
       </body>
     </html>
   );
