@@ -12,9 +12,35 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const SITE_URL = "https://aidailybriefing.zemystudio.com";
+
 export const metadata: Metadata = {
-  title: "AI Daily Briefing",
-  description: "Daily developer-focused AI briefing",
+  title: "AI 데일리 브리핑 | 매일 아침 AI 개발자 뉴스",
+  description:
+    "매일 아침 업데이트되는 AI, LLM, 개발자 트렌드 브리핑. Tech Deep Dive, Hype Check, 주요 뉴스를 한눈에.",
+  keywords:
+    "AI 뉴스, AI 브리핑, LLM, 생성형 AI, AI 에이전트, 개발자 뉴스, AI 트렌드, 데일리 브리핑",
+  robots: {
+    index: true,
+    follow: true,
+  },
+  alternates: {
+    canonical: SITE_URL,
+  },
+  openGraph: {
+    title: "AI 데일리 브리핑 | 매일 아침 AI 개발자 뉴스",
+    description:
+      "매일 아침 업데이트되는 AI, LLM, 개발자 트렌드 브리핑. Tech Deep Dive, Hype Check, 주요 뉴스를 한눈에.",
+    type: "website",
+    url: SITE_URL,
+    siteName: "AI 데일리 브리핑",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "AI 데일리 브리핑 | 매일 아침 AI 개발자 뉴스",
+    description:
+      "매일 아침 업데이트되는 AI, LLM, 개발자 트렌드 브리핑. Tech Deep Dive, Hype Check, 주요 뉴스를 한눈에.",
+  },
   icons: {
     icon: "/icon.svg",
   },
