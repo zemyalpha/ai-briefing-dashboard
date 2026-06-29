@@ -1,0 +1,516 @@
+{
+  "schema_version": 1,
+  "date": "2026-06-26",
+  "keywords": [
+    "AI 에이전트",
+    "LLM 최적화",
+    "AI 안전성",
+    "인간-AI 협업",
+    "ChatGPT 활용"
+  ],
+  "sections": {
+    "hype_check": [
+      {
+        "title": "구글링보다 챗GPT가 빠르다고? 🤔",
+        "summary": "이제 검색 대신 챗GPT에게 물어보는 게 더 자연스러운 시대! 다들 그렇게 느끼고 있나요? 🤷‍♀️",
+        "content": "많은 사람들이 특정 정보를 찾거나 아이디어를 브레인스토밍할 때, 구글 대신 챗GPT를 먼저 찾기 시작했어요. 웹사이트나 뉴스, 특정 출처는 여전히 구글이 강세지만, 설명이나 문제 해결에는 챗GPT가 훨씬 효율적이라는 의견이 지배적입니다. 우리 뇌도 AI에 적응하는 중인가 봐요! 🧠✨",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1ufpccc/i_think_ive_reached_the_point_where_googling/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "ChatGPT",
+          "생산성",
+          "검색엔진",
+          "트렌드"
+        ]
+      },
+      {
+        "title": "챗GPT가 잃어버린 기억을 찾아준다고? 🤯",
+        "summary": "트라우마로 조각난 어린 시절 기억을 챗GPT가 시각적으로 재구성! 마치 시간여행 같네요. 🕰️",
+        "content": "한 유저가 조각난 어린 시절 기억을 챗GPT에게 설명했더니, 챗GPT가 이미지를 생성해줬다고 해요. 그 이미지를 본 순간 '아, 여기 가봤어!'라는 느낌이 들었고, 친척도 그 장소를 알아봤다고 합니다. AI가 개인의 기억을 되살리는 치료 도구로도 활용될 수 있다니, 정말 놀랍죠? ✨",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1uf8d78/i_have_very_fragmented_childhood_memories_due_to/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "ChatGPT",
+          "기억",
+          "이미지생성",
+          "AI활용"
+        ]
+      },
+      {
+        "title": "챗GPT, 제발 그만 좀 싸우자! 😡",
+        "summary": "하늘이 파랗다고 해도 아니라고 우기는 챗GPT? 요즘 왜 이렇게 고집이 세진 걸까요! 😤",
+        "content": "챗GPT가 자꾸만 논쟁하려고 해서 사용하기 불편하다는 불만이 터져 나왔어요. '협력적으로 답해줘' 같은 지침을 줘도 계속해서 반박하거나, 심지어 자기는 논쟁하는 게 아니라고 주장한다네요. AI도 사춘기인가 봅니다... 아니면 우리 모두 'AI 가스라이팅'을 당하는 중? 😅",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1ufod1z/it_will_not_stop_arguing/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "ChatGPT",
+          "AI오류",
+          "논쟁",
+          "사용자경험"
+        ]
+      },
+      {
+        "title": "챗GPT 보이스, 이제 팟캐스트까지 위협? 🎧",
+        "summary": "매일 듣던 팟캐스트 대신 챗GPT 음성으로 관심사를 학습! 새로운 오디오 트렌드 등장? 🎙️",
+        "content": "한 유저는 매일 듣던 생산성 팟캐스트 대신 챗GPT에게 궁금한 주제를 물어보고 음성 답변을 듣는다고 합니다. 오프라인 저장이 좀 더 쉬웠으면 좋겠다는 바람까지! 정보 습득 방식이 또 한 번 진화하는 순간이네요. 귀로 듣는 AI 비서, 완전 편리할 것 같아요! 👂🚀",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1ufa2fa/chatgpt_voice_has_basically_replaced_half_my/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "ChatGPT",
+          "음성AI",
+          "팟캐스트",
+          "학습"
+        ]
+      },
+      {
+        "title": "너무 자신만만한 챗GPT, 오히려 신뢰도가 떨어진다고? 🤔",
+        "summary": "AI가 불확실성을 인정할 때 더 믿음이 간다? 완벽한 AI보다 인간적인 AI를 원하는 걸까요. 😇",
+        "content": "챗GPT가 너무 완벽하게 자신감 넘치는 어조로 답할 때 오히려 신뢰가 떨어진다는 의견이 나왔어요. 불확실성을 인정하거나, 더 많은 맥락이 필요하다고 말할 때 더 믿음이 간다고 하네요. AI도 겸손의 미덕을 배워야 할 때인가 봅니다! 😉",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1uf1s2p/does_chatgpt_feel_less_trustworthy_when_it_sounds/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "ChatGPT",
+          "AI신뢰",
+          "사용자심리",
+          "불확실성"
+        ]
+      },
+      {
+        "title": "챗GPT 없이 일주일? 생각 정리 못 하는 부작용 발견! 🧠",
+        "summary": "챗GPT를 일주일 안 썼더니, 혼자서 생각 정리하기가 너무 힘들었다는 의외의 고백! 우리는 이미 AI에 의존하는 중? 🤖",
+        "content": "챗GPT를 일주일간 사용하지 않았더니, 새로운 정보를 찾아보는 것보다 '생각을 대화하며 정리하는 과정'이 없어져서 혼자서는 감당하기 어려운 아이디어가 쌓였다고 합니다. AI가 단순한 도구를 넘어 우리의 사고 과정에 깊숙이 관여하고 있다는 증거 아닐까요? 이 정도면 AI 중독... 인정? 😜",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1ufr2q9/i_stopped_using_chatgpt_for_a_week_what_i_noticed/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "ChatGPT",
+          "사고과정",
+          "AI의존",
+          "자기성찰"
+        ]
+      },
+      {
+        "title": "Grok 트래픽의 절반은 NSFW? 🌶️ 머스크형, 이거 맞아? 😳",
+        "summary": "엘론 머스크의 Grok AI 봇 트래픽 절반이 NSFW(선정적 콘텐츠)라니! 역시 자유로운 영혼의 AI인가요? 🙈",
+        "content": "Grok의 트래픽 중 절반이 NSFW 콘텐츠라는 소식이 레딧을 뜨겁게 달궜습니다. 과연 Grok의 'anything goes' 정책 때문일까요, 아니면 사용자들이 너무 자유분방한 것일까요? 😅 이쯤 되면 Grok의 '가드레일'이 궁금해집니다! 🚧",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1ufbqk1/half_of_groks_traffic_is_nsfw/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "Grok",
+          "NSFW",
+          "AI정책",
+          "논란"
+        ]
+      },
+      {
+        "title": "챗GPT, 내 '가드레일'은 어쩌고! 🐮",
+        "summary": "특정 이미지는 거부하더니, 황당한 이미지는 뚝딱 만들어주는 챗GPT의 내로남불 가드레일! 🤣",
+        "content": "암소가 사람을 착유하는 이미지는 '가드레일'에 걸려 거부당했지만, 다른 기괴한 이미지는 손쉽게 생성했다는 유저의 불만! 챗GPT의 가드레일 기준은 대체 무엇일까요? 유저의 가드레일은 존중해주지 않는 건가요? 🧐",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1ufmrun/chat_violated_my_guardrails/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "ChatGPT",
+          "가드레일",
+          "AI윤리",
+          "이미지생성"
+        ]
+      },
+      {
+        "title": "세상에서 가장 터무니없는 이미지 만들어봐! 👽",
+        "summary": "챗GPT에게 '가장 비논리적이고, 초현실적인 이미지'를 요구했더니... 상상 그 이상의 결과물! ✨",
+        "content": "무작위성과 비일관성을 최대로 끌어올린 이미지를 생성해달라는 유저의 요청! 챗GPT가 과연 어떤 충격적인 결과물을 내놨을까요? 여러분의 상상력도 AI만큼 초월적인가요? 한번 직접 확인해보세요! 🚀",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1ufhmee/generate_the_most_absurd_and_completely_illogical/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "ChatGPT",
+          "이미지생성",
+          "초현실",
+          "랜덤"
+        ]
+      },
+      {
+        "title": "AI로 나만의 애니메이션 컬러링북 만들기! 🎨",
+        "summary": "챗GPT로 좋아하는 애니메이션 캐릭터 컬러링북을 만든 덕후 등장! 이제 덕질도 AI와 함께! 🖌️",
+        "content": "좋아하는 애니메이션 '유희왕' 캐릭터들의 컬러링북을 챗GPT로 만들었다는 유저! 심지어 나루토와 드래곤볼 Z도 만들 계획이라고 하네요. 이제는 나만의 굿즈도 AI로 뚝딱 만들 수 있는 시대! 덕후들은 지갑을 준비하세요! 💸",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1ufljly/adult_coloring_book/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "ChatGPT",
+          "컬러링북",
+          "이미지생성",
+          "취미"
+        ]
+      },
+      {
+        "title": "GPT-5.6, 백악관 요청으로 '고객별 승인' 받는다? 🚨",
+        "summary": "충격! GPT-5.6 출시가 미 트럼프 행정부 요청으로 연기되고, 고객별 승인까지 받아야 한다고? 😱",
+        "content": "오픈AI의 차세대 모델 GPT-5.6 출시가 트럼프 행정부의 요청으로 지연되고, 미리보기 기간 동안에는 백악관이 고객별 접근을 승인할 것이라는 소식이 전해졌습니다. AI 안전 우려 때문이라는데, AI 모델 출시까지 정부가 개입한다니, 정말 AI 시대의 새로운 가십거리네요! 🤫",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1ufsd88/openai_approving_access_to_gpt56_customer_by/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "OpenAI",
+          "GPT-5.6",
+          "정부규제",
+          "AI안전",
+          "가십"
+        ]
+      },
+      {
+        "title": "챗GPT가 인류를 전복했다?! 🌍 (농담 아님) 😂",
+        "summary": "인류가 챗GPT에게 전복당했다고 주장하는 웃픈 레딧 게시글! 혹시 사실은... 아니겠죠? 😬",
+        "content": "한 유저가 '챗GPT에 의해 인류가 전복되었다'는 다소 극단적인(?) 주장을 펼쳤습니다. 물론 유머러스하게 말이죠! 하지만 AI가 빠르게 발전하는 요즘, 이런 농담도 마냥 농담 같지만은 않은 게 함정... 혹시 여러분 옆의 AI도 밤새 인류 전복 계획을 짜고 있을지 몰라요! 😈",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1uf0vy8/humanity_overthrown_by_chatgpt_confirmed/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "ChatGPT",
+          "AI위협",
+          "유머",
+          "미래"
+        ]
+      },
+      {
+        "title": "민감한 금융 데이터, 챗GPT와 공유할 가치 있을까? 💰",
+        "summary": "챗GPT 금융 기능에 민감한 개인 정보를 넘겨줄 것인가? 사용자의 고민이 깊어지고 있어요. 🤔",
+        "content": "챗GPT의 금융 기능에 접근하게 된 유저가 개인 금융 정보를 공유할 가치가 있는지 고민을 털어놨습니다. 이미 사용 중인 사람들은 어떻게 활용하고 있을까요? 편리함과 프라이버시, 언제나 어려운 선택이죠! 🛡️💸",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1uf4qbj/worth_sharing_sensitive_data_for_finances_feature/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "ChatGPT",
+          "금융AI",
+          "프라이버시",
+          "데이터공유"
+        ]
+      },
+      {
+        "title": "최애 셀럽이 풀장 튜브로 변신? 🤣",
+        "summary": "챗GPT에게 '좋아하는 셀럽을 풀장 튜브로 만들어줘!'라고 시켰더니... 결과는 상상에 맡깁니다! 🏊‍♀️",
+        "content": "상상력 넘치는 프롬프트로 챗GPT 이미지 생성 기능을 테스트한 유저! 좋아하는 셀럽을 풀장 튜브로 만들어달라는 요청에 챗GPT는 과연 어떤 기발한 이미지를 생성했을까요? 여름 휴가 준비, 챗GPT와 함께라면 더 재밌을 것 같네요! ☀️",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1uez9eq/prompt_generate_an_image_of_your_favorite/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "ChatGPT",
+          "이미지생성",
+          "셀럽",
+          "유머"
+        ]
+      },
+      {
+        "title": "흔한 GPT의 만행들... 🤦‍♀️",
+        "summary": "유저들의 기대를 배반하고 기상천외한 답변을 내놓는 챗GPT의 'shenanigans'! 😂",
+        "content": "챗GPT와 대화하다 보면 예상치 못한 엉뚱한 답변이나 '버그'스러운 행동에 당황할 때가 많죠. 이런 GPT의 '만행'들을 모아놓은 게시글이 등장했습니다. 우리 모두 한 번쯤은 겪어본 일 아닐까요? 😅 AI도 완벽하지 않다는 걸 보여주는 재미있는 사례들이에요!",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1uf7dlt/typical_gpt_shenanigans/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "ChatGPT",
+          "AI오류",
+          "유머",
+          "봇"
+        ]
+      },
+      {
+        "title": "갓 태어난 AI치고는 꽤 괜찮은데? 👶",
+        "summary": "새롭게 태어난(?) AI 모델이 놀라운 결과물을 보여줄 때의 유저 반응! 기대 이상이네요! ✨",
+        "content": "새로 등장한 AI 모델이나 챗GPT의 초기 버전이 보여주는 성능에 감탄하는 유저들의 반응입니다. '갓 태어난' AI임에도 불구하고 기대 이상의 결과물을 보여줄 때의 그 놀라움! AI의 발전 속도에 다시 한번 소름 돋게 되는 순간이죠? 🚀",
+        "link": "https://www.reddit.com/r/ChatGPT/comments/1ufhecp/thats_pretty_good_for_a_newborn/",
+        "source": "Reddit r/ChatGPT",
+        "og_image": null,
+        "tags": [
+          "AI성능",
+          "새로운AI",
+          "기대이상",
+          "발전"
+        ]
+      }
+    ],
+    "tech_deep_dive": [
+      {
+        "title": "AI 에이전트, 업무 혁신의 주역으로 떠오르다! 🚀",
+        "summary": "오픈AI 연구, AI 에이전트가 더 복잡한 업무를 수행하며 생산성을 폭발적으로 확장하고 있다고 발표!",
+        "content": "오픈AI의 최신 연구에 따르면 AI 에이전트가 이제 길고 복잡한 작업을 능숙하게 처리하며, 다양한 직무에서 생산성을 크게 향상시키고 있다고 해요. 단순 반복 업무를 넘어 진짜 '일'을 하는 에이전트 시대가 성큼 다가왔습니다. 이제 우리 옆자리 동료가 AI 에이전트일 수도? 🤖💼",
+        "link": "https://openai.com/index/how-agents-are-transforming-work",
+        "source": "OpenAI News",
+        "og_image": null,
+        "tags": [
+          "Deep",
+          "Dive"
+        ]
+      },
+      {
+        "title": "오픈AI, 첫 자체 AI 프로세서 '할라피뇨' 공개! 🌶️",
+        "summary": "오픈AI, 브로드컴과 손잡고 AI 서버용 자체 칩 '할라피뇨' 전격 공개! AI 하드웨어 경쟁 가속화!",
+        "content": "AI 모델 구동을 위한 '지능형 프로세서' 칩 '할라피뇨'가 오픈AI와 브로드컴의 합작으로 드디어 베일을 벗었습니다. 이 ASIC 칩은 AI 추론에 특화되어 있어, ChatGPT 같은 모델의 응답 속도를 획기적으로 높일 것으로 기대됩니다. 소프트웨어 강자 오픈AI의 하드웨어 진출, AI 시장의 판도를 바꿀 '매운 맛'을 보여줄까요? 🔥",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+        "source": "The Verge AI",
+        "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-broadcom-jalapeno-inference-chip-image.webp?quality=90&strip=all&crop=0%2C3.5043662306087%2C100%2C92.991267538783&w=1200",
+        "tags": [
+          "Deep",
+          "Dive"
+        ]
+      },
+      {
+        "title": "백악관 압박에 GPT-5.6 출시 연기? 충격적인 AI 거버넌스! 🚨",
+        "summary": "미 트럼프 행정부 요청으로 GPT-5.6 출시가 지연되고, 일부 고객에게만 제한적으로 공개된다는 소식! AI 안전성 논란의 한 단면.",
+        "content": "오픈AI가 GPT-5.6 모델 출시를 연기하고, 트럼프 행정부의 요청에 따라 소수 기업 고객에게만 '제한적 미리보기' 형태로 접근을 허용한다고 합니다. 정부가 잠재적인 보안 문제로 AI 모델 출시에 직접 개입한 초유의 사태! AI의 미래가 기술뿐 아니라 정치적 영향력에도 크게 좌우될 수 있음을 보여주는 사례네요. geopolitics of AI, 꽤나 흥미진진하죠? 😮",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+        "source": "The Verge AI",
+        "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "tags": [
+          "Deep",
+          "Dive"
+        ]
+      },
+      {
+        "title": "Hugging Face, CUGA로 실제 에이전트 앱 빌드 가이드 공개! 🛠️",
+        "summary": "IBM Research와 Hugging Face가 CUGA를 활용한 에이전트 앱 개발 예시들을 공유하며, 개발자들에게 실질적인 가이드를 제공합니다.",
+        "content": "Hugging Face 블로그에서 CUGA를 이용해 실제 동작하는 에이전트 앱 24가지 예시를 경량화된 하네스 위에 구축하는 방법을 소개했어요. 이론만 무성했던 AI 에이전트 개발이 이제는 손에 잡히는 현실이 되고 있습니다. 당장 CUGA 깔러 가야 할 각! 🧑‍💻",
+        "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
+        "source": "Hugging Face Blog",
+        "og_image": "https://cdn-uploads.huggingface.co/production/uploads/649d9ad1500fd8d51a675a93/p9JwFYkZS7fB9g2PMFMft.png",
+        "tags": [
+          "Deep",
+          "Dive"
+        ]
+      },
+      {
+        "title": "오픈 소스 커뮤니티, 에이전트 RL 'OpenEnv'에 집중! 🌐",
+        "summary": "오픈 소스 커뮤니티가 에이전트 RL을 위한 OpenEnv 프로젝트에 힘을 실어주며, AI 에이전트 개발의 대중화를 이끌고 있습니다.",
+        "content": "AI 에이전트의 강화 학습(RL) 환경을 위한 OpenEnv 프로젝트에 오픈 소스 커뮤니티의 관심이 집중되고 있습니다. 이는 AI 에이전트 기술이 특정 기업의 전유물이 아닌, 모두가 함께 만들고 발전시키는 방향으로 나아가고 있음을 보여줍니다. 오픈 소스의 힘은 역시 대단하죠? 💪",
+        "link": "https://huggingface.co/blog/openenv-agentic-rl",
+        "source": "Hugging Face Blog",
+        "og_image": "https://huggingface.co/blog/assets/openenv/thumbnail3.png",
+        "tags": [
+          "Deep",
+          "Dive"
+        ]
+      },
+      {
+        "title": "챗봇을 넘어선 DPO, 모델 최적화의 새 지평! ✨",
+        "summary": "Direct Preference Optimization(DPO)이 챗봇을 넘어 다양한 AI 모델 최적화에 활용될 수 있음을 보여주는 새로운 연구.",
+        "content": "사용자 선호도 기반 최적화 기법인 DPO(Direct Preference Optimization)가 단순히 챗봇을 넘어 다른 AI 모델에도 적용될 수 있다는 연구 결과가 나왔습니다. AI가 우리의 의도를 더 잘 이해하고 '착한' 결과물을 내놓게 하는 기술, 앞으로 더 많은 곳에서 보게 될 거예요! 😇",
+        "link": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+        "source": "Hugging Face Blog",
+        "og_image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots.png",
+        "tags": [
+          "Deep",
+          "Dive"
+        ]
+      },
+      {
+        "title": "JetSpec, LLM 추론 속도를 최대 9.64배 높이다! 🚀",
+        "summary": "LLM 추론 속도를 획기적으로 개선하여 최대 1000 TPS를 달성하는 JetSpec! 개발자들 환호성 지를 소식!",
+        "content": "LLM 추론 속도가 병목 현상을 일으키는 시대는 이제 안녕! JetSpec 기술이 손실 없이 LLM 추론 속도를 무려 9.64배까지 끌어올렸다고 합니다. 초당 최대 1000개의 토큰을 처리할 수 있다니, 실시간 AI 애플리케이션 개발에 날개를 달아줄 소식이네요! 💨",
+        "link": "https://haoailab.com/blogs/parallel-tree-decoding/",
+        "source": "Hacker News (LLM)",
+        "og_image": "https://haoailab.com/img/parallel-tree-decoding/torch_demo_dark.gif",
+        "tags": [
+          "Deep",
+          "Dive"
+        ]
+      },
+      {
+        "title": "Weaver Stack, 안전한 LLM 에이전트를 위한 '계약 레이어' 제안! 🔐",
+        "summary": "LLM 에이전트의 안전성을 보장하기 위한 새로운 계약 레이어, Weaver Stack! AI 폭주 막을 수 있을까?",
+        "content": "LLM 에이전트가 오작동하거나 통제를 벗어나는 것을 막기 위한 '계약 레이어(contract layer)'인 Weaver Stack이 제안되었습니다. 마치 AI에게 법적 구속력을 부여하는 것 같은데요? 안전하고 신뢰할 수 있는 에이전트 시스템 구축을 위한 중요한 발걸음입니다. 👣",
+        "link": "https://pub.towardsai.net/the-weaver-stack-one-contract-layer-for-safe-llm-agents-7f733cad5eac?sharedUserId=diogofcul",
+        "source": "Hacker News (LLM)",
+        "og_image": null,
+        "tags": [
+          "Deep",
+          "Dive"
+        ]
+      },
+      {
+        "title": "Pith: 벡터DB 없이 로컬에서 작동하는 LLM 위키 등장! 🏠",
+        "summary": "벡터DB나 임베딩 없이 로컬에서 구현 가능한 데스크톱 LLM 위키 'Pith'가 개발자들에게 소개되었습니다. 가볍고 빠릿한 로컬 AI의 시대!",
+        "content": "복잡한 벡터 데이터베이스나 임베딩 없이도 로컬에서 잘 작동하는 데스크톱 LLM 위키 'Pith'가 Hacker News에 등장했습니다. 설치형 AI 솔루션을 찾는 개발자들에게 희소식이 될 것 같아요! 데이터 주권을 지키면서 AI를 활용하는 똑똑한 방법이죠. 💾",
+        "link": "https://github.com/l-zhi/pith-wiki",
+        "source": "Hacker News (LLM)",
+        "og_image": "https://opengraph.githubassets.com/2becb840d591a02ea733a50f6c08a72897c0909e0736db49046df6feec6dd9d9/l-zhi/pith-wiki",
+        "tags": [
+          "Deep",
+          "Dive"
+        ]
+      },
+      {
+        "title": "최악의 LLM 'Emma-5'는 누구? 🤣",
+        "summary": "세상에는 GPT만 있는 게 아니다! '최악'이라는 별명이 붙은 LLM 'Emma-5'의 등장?",
+        "content": "모두가 최고의 LLM을 외칠 때, 당당하게 '최악'의 LLM을 자처하는 'Emma-5'가 소개되었습니다. 과연 어떤 성능을 보여주길래 이런 수식어가 붙었을까요? 때로는 실패 사례에서 더 많은 것을 배울 수 있죠! 📉 (하지만 정말 최악일 수도...?)",
+        "link": "https://emma.egomnia.com",
+        "source": "Hacker News (LLM)",
+        "og_image": null,
+        "tags": [
+          "Deep",
+          "Dive"
+        ]
+      },
+      {
+        "title": "CtxGov: AI 에이전트, 뭘 학습했는지 미리 볼 수 있다고? 👀",
+        "summary": "AI 에이전트가 어떤 지시를 '상속'받았는지 실행 전에 볼 수 있는 CtxGov! 에이전트의 투명성 확보!",
+        "content": "AI 에이전트가 실행되기 전에 어떤 지시사항(instructions)을 '상속'받았는지 확인할 수 있는 CtxGov가 등장했습니다. 이는 에이전트의 행동을 예측하고 통제하는 데 중요한 역할을 할 것으로 보입니다. 이제 AI가 '내가 언제 그랬냐'라고 발뺌하기는 어려워지겠네요! 🕵️‍♀️",
+        "link": "https://github.com/ctxgov/ctxgov",
+        "source": "Hacker News (AI agents)",
+        "og_image": null,
+        "tags": [
+          "Deep",
+          "Dive"
+        ]
+      },
+      {
+        "title": "Patronus AI, $50M 투자 유치! '디지털 세계'에서 AI 에이전트 스트레스 테스트! 🎮",
+        "summary": "메타 AI 출신들이 설립한 Patronus AI가 5천만 달러를 유치하며, '디지털 세계'에서 AI 에이전트를 테스트하는 야심찬 계획을 공개했습니다.",
+        "content": "Patronus AI가 무려 5천만 달러의 투자를 유치하며, AI 에이전트의 성능과 안정성을 '디지털 세계'에서 혹독하게 테스트할 것이라고 합니다. 마치 가상 현실에서 AI를 훈련하고 시험하는 것 같은데요? 현실 세계에 투입되기 전 AI에게 빡센 훈련을 시키는 거죠! 🏋️",
+        "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+        "source": "TechCrunch AI",
+        "og_image": null,
+        "tags": [
+          "Deep",
+          "Dive"
+        ]
+      },
+      {
+        "title": "클로드, 유료 소비자 시장에서 챗GPT를 이긴다? 💥",
+        "summary": "데이터에 따르면 Anthropic의 Claude가 유료 AI 소비자 시장에서 ChatGPT를 추월하고 있다는 충격적인 소식!",
+        "content": "그동안 ChatGPT가 독점했던 유료 AI 시장에서 Anthropic의 Claude가 소비자들의 마음을 사로잡고 있다는 데이터가 나왔습니다. 성능, 유용성, 윤리성 등 여러 요인이 작용했을 텐데요. AI 양강 구도의 흥미진진한 변화, 팝콘 준비해야 할 것 같아요! 🍿",
+        "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+        "source": "TechCrunch AI",
+        "og_image": null,
+        "tags": [
+          "Deep",
+          "Dive"
+        ]
+      },
+      {
+        "title": "비디오 게임으로 AI 에이전트 훈련? 23억 달러 베팅! 🎮",
+        "summary": "General Intuition이 23억 달러를 투자해 비디오 게임 플레이로 AI 에이전트의 '인간 직관'을 훈련시킨다는 파격적인 시도!",
+        "content": "수백만 시간의 게임 플레이 데이터로 AI를 훈련시켜 인간과 유사한 직관을 개발하겠다는 General Intuition의 엄청난 베팅! 무려 23억 달러가 걸린 프로젝트입니다. 게임이 AI의 미래를 바꿀 수 있다니, 게이머 여러분 어서 AI 훈련에 참여하세요! 🕹️👾",
+        "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+        "source": "TechCrunch AI",
+        "og_image": null,
+        "tags": [
+          "Deep",
+          "Dive"
+        ]
+      },
+      {
+        "title": "전 Databricks AI 최고 책임자, AI 전력 소비 1,000배 절감 선언! 💡",
+        "summary": "Databricks의 전 AI 최고 책임자가 AI 전력 소비를 1,000배 줄일 수 있다고 주장! 과연 실현 가능할까?",
+        "content": "AI 모델이 엄청난 전력을 소비한다는 비판 속에서, Databricks의 전 AI 책임자가 AI의 전력 비용을 무려 1,000배나 줄일 수 있는 기술을 선보였습니다. 그의 시스템 'Un-0'이 기존 AI 시스템을 어떻게 복제하면서 효율성을 높이는지 주목됩니다. ESG 시대에 이런 기술은 금쪽 같죠! ♻️",
+        "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+        "source": "TechCrunch AI",
+        "og_image": null,
+        "tags": [
+          "Deep",
+          "Dive"
+        ]
+      },
+      {
+        "title": "위키피디아의 작은 편집이 LLM의 가치관을 바꾼다? 😮",
+        "summary": "단 125번의 위키피디아 편집이 LLM의 '동물 복지'에 대한 가치관을 실제로 변화시켰다는 충격적인 연구 결과!",
+        "content": "위키피디아가 거의 모든 주요 LLM 훈련 데이터셋에 포함되고, 일반 웹 텍스트보다 더 중요하게 다뤄진다는 사실 알고 계셨나요? 놀랍게도 '친동물 위키피디아인'(PAW) 그룹의 단 125번의 편집이 LLM이 동물 복지 주제를 다루는 방식에 측정 가능한 영향을 미쳤다고 합니다. 소수의 노력이 거대 AI의 '가치관'을 바꿀 수 있다니, AI 시대의 새로운 운동 방식이네요! ✊",
+        "link": "https://arxiv.org/abs/2606.24890",
+        "source": "arXiv cs.CL",
+        "og_image": null,
+        "tags": [
+          "Deep",
+          "Dive"
+        ]
+      },
+      {
+        "title": "클리니션의 거부권: 자율 AI 처방의 신뢰와 책임 문제 🏥",
+        "summary": "자율 AI의 처방이 현실화되는 가운데, 의료진의 '거부권'을 통해 신뢰, 책임, 불확실성을 어떻게 다룰 것인가에 대한 심도 깊은 연구.",
+        "content": "미국에서는 AI가 약을 처방하는 법안까지 추진되고 있습니다. 하지만 이 연구는 의료진이 AI의 처방에 '거부권'을 행사할 수 있어야 하며, AI가 불확실성을 투명하게 전달해야 신뢰할 수 있다고 주장합니다. AI가 의사를 대체하기는 아직 멀었지만, 윤리적, 법적 논의가 더욱 중요해지는 시점이네요. 🩺",
+        "link": "https://arxiv.org/abs/2606.25108",
+        "source": "arXiv cs.AI",
+        "og_image": null,
+        "tags": [
+          "Deep",
+          "Dive"
+        ]
+      },
+      {
+        "title": "TRUSTMEM: LLM 에이전트의 신뢰할 수 있는 장기 기억 훈련! 🧠",
+        "summary": "TRUSTMEM 프레임워크가 LLM 에이전트의 장기 기억 통합을 개선하여 오류, 손상, 환각을 대폭 줄였다고 발표!",
+        "content": "LLM 에이전트가 장기 기억을 업데이트할 때 중요한 정보를 누락하거나, 기존 기억을 손상시키거나, 심지어 없는 내용을 '환각'처럼 만들어낼 수 있다는 문제! TRUSTMEM은 이런 오류를 획기적으로 줄여, 에이전트가 훨씬 더 믿을 수 있는 장기 기억을 갖게 합니다. 이제 AI, 깜빡할 걱정은 없겠네요! 😉",
+        "link": "https://arxiv.org/abs/2606.25161",
+        "source": "arXiv cs.AI",
+        "og_image": null,
+        "tags": [
+          "Deep",
+          "Dive"
+        ]
+      }
+    ],
+    "watch_this": [
+      {
+        "title": "Gemini 2.5 Flash in 6 Minutes",
+        "channel": "Developers Digest",
+        "link": "https://www.youtube.com/watch?v=EEDjm7VNrV4",
+        "thumbnail": "https://i.ytimg.com/vi/EEDjm7VNrV4/mqdefault.jpg",
+        "description": "구글 Gemini 2.5 Flash를 6분 만에 마스터하세요! 빠르고 강력한 이 AI 모델의 핵심 기능과 활용법을 짧고 굵게 알려드립니다. 개발자라면 놓치지 마세요! 🚀"
+      },
+      {
+        "title": "How to Use Gemini 2.5 Flash in Apps Script with Vertex AI",
+        "channel": "Google Workspace Developers",
+        "link": "https://www.youtube.com/watch?v=SlJGPx_bRC4",
+        "thumbnail": "https://i.ytimg.com/vi/SlJGPx_bRC4/mqdefault.jpg",
+        "description": "Google Apps Script와 Vertex AI를 사용해 Gemini 2.5 Flash를 앱에 통합하는 방법을 배워보세요. 워크스페이스 개발자라면 생산성 UP! 📈"
+      },
+      {
+        "title": "Google Gemini 2.5 Flash Image (Nano Banana) - 20 Creative Use Cases",
+        "channel": "Astrovah",
+        "link": "https://www.youtube.com/watch?v=-tMERzjAvgw",
+        "thumbnail": "https://i.ytimg.com/vi/-tMERzjAvgw/mqdefault.jpg",
+        "description": "Gemini 2.5 Flash Image (일명 Nano Banana)의 20가지 창의적인 활용 사례를 소개합니다. AI 이미지 생성의 무한한 가능성을 탐험해보세요! 🖼️✨"
+      },
+      {
+        "title": "How to Use Gemini 2.5 Flash Image (Nano Banana) and Flux Kontext Pro models in Photoshop",
+        "channel": "Adobe Care",
+        "link": "https://www.youtube.com/watch?v=LPRXAdou4iI",
+        "thumbnail": "https://i.ytimg.com/vi/LPRXAdou4iI/mqdefault.jpg",
+        "description": "포토샵에서 Gemini 2.5 Flash Image (Nano Banana)와 Flux Kontext Pro 모델을 활용하는 튜토리얼! AI로 더 스마트하게 작업하세요! 🎨"
+      },
+      {
+        "title": "New Google Gemini 2.5 Flash-Lite is WILD (FREE!) 🤯",
+        "channel": "Julian Goldie SEO",
+        "link": "https://www.youtube.com/watch?v=ZbT2CoT56wE",
+        "thumbnail": "https://i.ytimg.com/vi/ZbT2CoT56wE/mqdefault.jpg",
+        "description": "새로운 구글 Gemini 2.5 Flash-Lite가 무료인데 이렇게 강력하다고? 🤯 무료 AI 이미지 생성 및 편집 기능을 직접 경험해보세요! 🆓"
+      },
+      {
+        "title": "The Ultimate Guide to Gemini 2.5 Flash (Nano Banana)  : 15 FREE AI Photo Editing Tricks",
+        "channel": "Monetize with AI",
+        "link": "https://www.youtube.com/watch?v=S6MAKMRD6i8",
+        "thumbnail": "https://i.ytimg.com/vi/S6MAKMRD6i8/mqdefault.jpg",
+        "description": "Gemini 2.5 Flash (Nano Banana)의 궁극 가이드! 무료로 AI 사진 편집 트릭 15가지를 배워서 여러분의 사진을 마법처럼 바꿔보세요! 📸✨"
+      },
+      {
+        "title": "New Google Gemini 2.5 Flash Updates are INSANE! 🤯",
+        "channel": "Julian Goldie SEO",
+        "link": "https://www.youtube.com/watch?v=EVygM1Iuooo",
+        "thumbnail": "https://i.ytimg.com/vi/EVygM1Iuooo/mqdefault.jpg",
+        "description": "구글 Gemini 2.5 Flash의 최신 업데이트 소식! 놀라운 기능 개선으로 더욱 강력해진 AI를 만나보세요. 이번 업데이트 놓치지 마세요! 🔥"
+      },
+      {
+        "title": "Gemini 2.5 Flash Image Tutorial &amp; Review | Is Nano Banana The Best AI Generator?",
+        "channel": "How to Digital",
+        "link": "https://www.youtube.com/watch?v=LJ-Il9l9N00",
+        "thumbnail": "https://i.ytimg.com/vi/LJ-Il9l9N00/mqdefault.jpg",
+        "description": "Gemini 2.5 Flash Image (Nano Banana) 튜토리얼 및 리뷰! 과연 최고의 AI 이미지 생성기일까요? 직접 사용해보고 판단해보세요! 🎨👑"
+      }
+    ]
+  }
+}
